@@ -33,3 +33,6 @@ printf("%d\n", dll_pop(l)); // 3
 
 dll_destroy(l);
 ```
+
+# Credits
+[dnkl](https://codeberg.org/dnkl/)
